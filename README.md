@@ -3,8 +3,8 @@ Working samples from projects, notebooks, coding practice, and others.
 
 ## Data analysis
 ### Using Python
-#### [Weather station analysis from Sensebox in a Golf course](https://github.com/violetasdev/projects_overview/blob/master/sensebox/Sensebox_PartA.ipynb)
-In this project, I retrieved data from the OpenSenseMap API, using SQLite for data analysis in a Jupyter Notebook. The main focus is to analyse diverse weather variables to establish the most insightful ones to evaluate soil health in the GC Westerholt golf course.
+#### [Weather analysis using Sensebox API](https://github.com/violetasdev/projects_overview/blob/master/sensebox/Sensebox_PartA.ipynb)
+In this project, I retrieved data from the OpenSenseMap API, using SQLite for data analysis in a Jupyter Notebook. The main focus is to analyse diverse weather variables to establish the most insightful ones for evaluating soil health in the GC Westerholt golf course.
 
 ### Using R
 #### [Spatial Data Science with R](https://github.com/violetasdev/SDR_geotech)
